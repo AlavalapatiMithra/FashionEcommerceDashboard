@@ -1,0 +1,501 @@
+product_id,product_name,category,sub_category,brand,price,cost
+P1000,Placeat Jewelry,Accessories,Jewelry,H&M India,2001,2954
+P1001,Natus Shirts,Men's Fashion,Shirts,Levi’s India,1839,923
+P1002,Similique Sneakers,Footwear,Sneakers,H&M India,4272,1629
+P1003,Beatae Jewelry,Accessories,Jewelry,Myntra,3867,1345
+P1004,Laudantium Sandals,Footwear,Sandals,AND,2073,1371
+P1005,Nobis Toys,Kids,Toys,Levi’s India,1711,1075
+P1006,Pariatur Jewelry,Accessories,Jewelry,AND,1660,2181
+P1007,Unde Jeans,Women's Fashion,Jeans,H&M India,4040,901
+P1008,Voluptates School Bags,Kids,School Bags,AND,523,923
+P1009,Consequuntur Bags,Accessories,Bags,AND,4818,478
+P1010,Molestiae Dresses,Women's Fashion,Dresses,FabIndia,1712,1901
+P1011,Impedit Dresses,Women's Fashion,Dresses,Allen Solly,4159,2996
+P1012,Sequi Bags,Accessories,Bags,H&M India,1940,2517
+P1013,Earum Sandals,Footwear,Sandals,H&M India,2892,2792
+P1014,Dicta Tops,Women's Fashion,Tops,FabIndia,1091,826
+P1015,Quasi Sneakers,Footwear,Sneakers,Nykaa Fashion,3258,828
+P1016,Rem Jeans,Women's Fashion,Jeans,H&M India,4012,2104
+P1017,Quae Sandals,Footwear,Sandals,Myntra,1296,859
+P1018,Aliquid Sandals,Footwear,Sandals,Biba,4074,2814
+P1019,Debitis Sneakers,Footwear,Sneakers,Biba,1184,1464
+P1020,Praesentium Tops,Women's Fashion,Tops,H&M India,727,2628
+P1021,Commodi Jewelry,Accessories,Jewelry,AND,2209,1986
+P1022,Incidunt Clothes,Kids,Clothes,H&M India,1920,832
+P1023,Veniam Jeans,Men's Fashion,Jeans,Biba,1904,743
+P1024,Quo Suits,Men's Fashion,Suits,Biba,4430,1631
+P1025,Omnis Jeans,Men's Fashion,Jeans,H&M India,3935,780
+P1026,Dolores Shoes,Footwear,Shoes,Van Heusen,2392,1994
+P1027,Occaecati Belts,Accessories,Belts,FabIndia,543,454
+P1028,Cum Clothes,Kids,Clothes,Nykaa Fashion,4580,2151
+P1029,Perspiciatis Dresses,Women's Fashion,Dresses,Nykaa Fashion,4139,330
+P1030,Ut Sneakers,Footwear,Sneakers,FabIndia,3924,744
+P1031,Quis School Bags,Kids,School Bags,FabIndia,2202,1173
+P1032,Excepturi Sneakers,Footwear,Sneakers,Biba,2814,616
+P1033,Exercitationem Bags,Accessories,Bags,Allen Solly,524,459
+P1034,Error Belts,Accessories,Belts,Allen Solly,1689,1002
+P1035,Dolores Jeans,Men's Fashion,Jeans,Van Heusen,3657,2667
+P1036,Unde T-Shirts,Men's Fashion,T-Shirts,Nykaa Fashion,4246,1878
+P1037,Voluptates Jeans,Women's Fashion,Jeans,Biba,4521,690
+P1038,Commodi Shoes,Footwear,Shoes,Nykaa Fashion,2426,2618
+P1039,Corrupti Jewelry,Accessories,Jewelry,Van Heusen,733,1691
+P1040,Nostrum Shoes,Footwear,Shoes,Levi’s India,1389,891
+P1041,Aliquam Dresses,Women's Fashion,Dresses,AND,927,2993
+P1042,Dolorem Belts,Accessories,Belts,FabIndia,1335,2986
+P1043,Itaque Jeans,Men's Fashion,Jeans,FabIndia,3038,340
+P1044,Molestiae Toys,Kids,Toys,FabIndia,2915,1759
+P1045,Hic Bags,Accessories,Bags,Allen Solly,3449,465
+P1046,Est Sarees,Women's Fashion,Sarees,Myntra,1615,782
+P1047,Facere Sandals,Footwear,Sandals,Biba,2947,1530
+P1048,Vel Clothes,Kids,Clothes,Van Heusen,4758,1496
+P1049,Pariatur School Bags,Kids,School Bags,H&M India,3452,2295
+P1050,Velit Sneakers,Footwear,Sneakers,Myntra,806,1662
+P1051,Cupiditate Sneakers,Footwear,Sneakers,Myntra,742,2184
+P1052,Vel Jeans,Men's Fashion,Jeans,Levi’s India,802,534
+P1053,Deleniti School Bags,Kids,School Bags,Myntra,1146,2348
+P1054,Quibusdam Suits,Men's Fashion,Suits,Nykaa Fashion,1037,2178
+P1055,Tempora Sneakers,Footwear,Sneakers,Allen Solly,2004,2162
+P1056,Porro Jewelry,Accessories,Jewelry,H&M India,1415,380
+P1057,Consectetur Jewelry,Accessories,Jewelry,Myntra,2190,1056
+P1058,Voluptate Suits,Men's Fashion,Suits,Allen Solly,1994,1944
+P1059,Iusto Jewelry,Accessories,Jewelry,H&M India,1172,738
+P1060,Et School Bags,Kids,School Bags,H&M India,4290,763
+P1061,Repellat Tops,Women's Fashion,Tops,Nykaa Fashion,4508,1212
+P1062,Sapiente Suits,Men's Fashion,Suits,Levi’s India,1926,1992
+P1063,At Jeans,Women's Fashion,Jeans,Biba,4962,849
+P1064,Temporibus Clothes,Kids,Clothes,FabIndia,4690,2183
+P1065,Laboriosam Clothes,Kids,Clothes,Levi’s India,1255,1746
+P1066,Minus Bags,Accessories,Bags,Van Heusen,4650,809
+P1067,Modi Sandals,Footwear,Sandals,Biba,2189,1616
+P1068,Ullam Clothes,Kids,Clothes,Biba,4520,1993
+P1069,Temporibus School Bags,Kids,School Bags,Levi’s India,1060,2212
+P1070,Ratione Shirts,Men's Fashion,Shirts,Nykaa Fashion,2909,2936
+P1071,Nostrum Shoes,Footwear,Shoes,Biba,507,2891
+P1072,Eveniet Belts,Accessories,Belts,Biba,1787,1418
+P1073,Et T-Shirts,Men's Fashion,T-Shirts,H&M India,1160,1015
+P1074,Facilis Clothes,Kids,Clothes,FabIndia,3029,1758
+P1075,Cum Jewelry,Accessories,Jewelry,Nykaa Fashion,4037,2197
+P1076,Illum Toys,Kids,Toys,Myntra,4587,1572
+P1077,Commodi Bags,Accessories,Bags,FabIndia,1422,941
+P1078,Culpa T-Shirts,Men's Fashion,T-Shirts,Allen Solly,1764,1559
+P1079,Commodi Tops,Women's Fashion,Tops,H&M India,2173,791
+P1080,Laboriosam Sandals,Footwear,Sandals,Levi’s India,2166,715
+P1081,Rerum Belts,Accessories,Belts,Nykaa Fashion,4903,2509
+P1082,Eaque Shoes,Footwear,Shoes,AND,4447,2813
+P1083,Cum Clothes,Kids,Clothes,Nykaa Fashion,972,1258
+P1084,Rem Sandals,Footwear,Sandals,Biba,581,1178
+P1085,Maxime Sarees,Women's Fashion,Sarees,Levi’s India,1261,325
+P1086,Debitis Toys,Kids,Toys,Van Heusen,4159,1825
+P1087,Ipsam Jeans,Men's Fashion,Jeans,Nykaa Fashion,1555,2154
+P1088,Modi Jewelry,Accessories,Jewelry,Myntra,1958,2161
+P1089,Repellat Bags,Accessories,Bags,Nykaa Fashion,4681,1799
+P1090,A Belts,Accessories,Belts,Van Heusen,3544,2275
+P1091,Ipsa T-Shirts,Men's Fashion,T-Shirts,Levi’s India,3075,444
+P1092,Assumenda Belts,Accessories,Belts,Levi’s India,1877,2125
+P1093,Rerum T-Shirts,Men's Fashion,T-Shirts,FabIndia,4914,1410
+P1094,Quidem T-Shirts,Men's Fashion,T-Shirts,FabIndia,4463,1146
+P1095,Eaque Sarees,Women's Fashion,Sarees,Nykaa Fashion,2250,2876
+P1096,Molestias Bags,Accessories,Bags,FabIndia,4887,1268
+P1097,Nisi Jewelry,Accessories,Jewelry,Myntra,4458,1418
+P1098,Ipsum Jeans,Women's Fashion,Jeans,Allen Solly,2441,507
+P1099,Maiores Belts,Accessories,Belts,H&M India,3536,1070
+P1100,Veritatis Belts,Accessories,Belts,Myntra,1319,1285
+P1101,Debitis Jeans,Women's Fashion,Jeans,Nykaa Fashion,4155,1135
+P1102,Quasi Jewelry,Accessories,Jewelry,Biba,4908,1317
+P1103,Ut Belts,Accessories,Belts,Van Heusen,3365,1317
+P1104,Sed Clothes,Kids,Clothes,Myntra,777,318
+P1105,Rerum Sarees,Women's Fashion,Sarees,Nykaa Fashion,902,708
+P1106,Est Sarees,Women's Fashion,Sarees,Van Heusen,4919,2282
+P1107,Corrupti Sneakers,Footwear,Sneakers,Nykaa Fashion,3878,1677
+P1108,Nam Suits,Men's Fashion,Suits,FabIndia,841,432
+P1109,Accusamus Toys,Kids,Toys,Nykaa Fashion,4688,1985
+P1110,Quidem Clothes,Kids,Clothes,Biba,765,945
+P1111,Officia Shirts,Men's Fashion,Shirts,H&M India,1890,1412
+P1112,Ipsam School Bags,Kids,School Bags,FabIndia,3568,2479
+P1113,Dignissimos School Bags,Kids,School Bags,Allen Solly,3670,2165
+P1114,Impedit Jeans,Women's Fashion,Jeans,H&M India,2718,1689
+P1115,Est Toys,Kids,Toys,Biba,1749,1916
+P1116,Praesentium Clothes,Kids,Clothes,Biba,2896,742
+P1117,Vero Suits,Men's Fashion,Suits,FabIndia,4877,2707
+P1118,Odit School Bags,Kids,School Bags,Levi’s India,3439,1969
+P1119,Dignissimos Suits,Men's Fashion,Suits,Myntra,1062,2838
+P1120,Sapiente Shoes,Footwear,Shoes,Levi’s India,4275,2596
+P1121,Id School Bags,Kids,School Bags,Van Heusen,1917,1123
+P1122,Dignissimos Bags,Accessories,Bags,AND,4154,828
+P1123,Vel Shoes,Footwear,Shoes,H&M India,1829,1533
+P1124,Voluptates Dresses,Women's Fashion,Dresses,H&M India,3259,2248
+P1125,Aliquid Clothes,Kids,Clothes,Biba,2565,1488
+P1126,Sapiente Sandals,Footwear,Sandals,Van Heusen,1869,1689
+P1127,Ipsum Suits,Men's Fashion,Suits,Myntra,818,2564
+P1128,Ipsa Sarees,Women's Fashion,Sarees,Allen Solly,3322,2000
+P1129,Provident Shoes,Footwear,Shoes,Allen Solly,2829,1435
+P1130,Voluptas Clothes,Kids,Clothes,Van Heusen,1069,2856
+P1131,Cupiditate Sarees,Women's Fashion,Sarees,Biba,770,1038
+P1132,Harum T-Shirts,Men's Fashion,T-Shirts,H&M India,889,1503
+P1133,Voluptatibus Sneakers,Footwear,Sneakers,Nykaa Fashion,3152,2603
+P1134,Rem Sneakers,Footwear,Sneakers,Van Heusen,1609,1550
+P1135,Perferendis T-Shirts,Men's Fashion,T-Shirts,FabIndia,1845,1641
+P1136,Suscipit Sneakers,Footwear,Sneakers,Van Heusen,984,1102
+P1137,Esse Jewelry,Accessories,Jewelry,FabIndia,3507,2620
+P1138,Possimus Suits,Men's Fashion,Suits,Van Heusen,2723,2250
+P1139,Illum Jewelry,Accessories,Jewelry,Levi’s India,3007,1556
+P1140,Voluptatibus Belts,Accessories,Belts,Levi’s India,1552,1013
+P1141,Minus Shoes,Footwear,Shoes,Allen Solly,1187,629
+P1142,Assumenda School Bags,Kids,School Bags,Myntra,3196,2700
+P1143,Iusto Dresses,Women's Fashion,Dresses,AND,4218,1979
+P1144,Dolor School Bags,Kids,School Bags,H&M India,1125,438
+P1145,Eos Shoes,Footwear,Shoes,Van Heusen,4029,1855
+P1146,Et Jeans,Women's Fashion,Jeans,AND,536,2087
+P1147,Voluptates Belts,Accessories,Belts,Biba,3227,1501
+P1148,Asperiores Shirts,Men's Fashion,Shirts,Levi’s India,636,2537
+P1149,Dolorum Shoes,Footwear,Shoes,H&M India,2310,714
+P1150,Placeat School Bags,Kids,School Bags,Levi’s India,3229,445
+P1151,Mollitia Clothes,Kids,Clothes,Levi’s India,4470,2658
+P1152,In Jeans,Men's Fashion,Jeans,Allen Solly,4044,681
+P1153,Unde T-Shirts,Men's Fashion,T-Shirts,Van Heusen,1617,1696
+P1154,Dolore Toys,Kids,Toys,AND,2015,2191
+P1155,Adipisci Sandals,Footwear,Sandals,Van Heusen,2400,2517
+P1156,Quo Dresses,Women's Fashion,Dresses,Allen Solly,1083,1283
+P1157,Mollitia Toys,Kids,Toys,FabIndia,2765,2966
+P1158,Labore Bags,Accessories,Bags,Levi’s India,916,1354
+P1159,Nisi Jewelry,Accessories,Jewelry,FabIndia,1921,982
+P1160,Veritatis Bags,Accessories,Bags,Myntra,3327,1137
+P1161,Pariatur School Bags,Kids,School Bags,Nykaa Fashion,680,456
+P1162,Laudantium Toys,Kids,Toys,Nykaa Fashion,2227,1347
+P1163,Mollitia Suits,Men's Fashion,Suits,Allen Solly,1091,2481
+P1164,Mollitia Shoes,Footwear,Shoes,Allen Solly,847,465
+P1165,Aut Suits,Men's Fashion,Suits,Myntra,4993,882
+P1166,Quia Toys,Kids,Toys,Allen Solly,3538,2813
+P1167,Id Clothes,Kids,Clothes,FabIndia,3467,2574
+P1168,Id Clothes,Kids,Clothes,AND,3236,1033
+P1169,Voluptatem Belts,Accessories,Belts,Nykaa Fashion,1887,478
+P1170,Earum Sandals,Footwear,Sandals,AND,2118,670
+P1171,Voluptates Suits,Men's Fashion,Suits,Allen Solly,2203,2568
+P1172,Quo Shoes,Footwear,Shoes,H&M India,2922,2728
+P1173,Mollitia Tops,Women's Fashion,Tops,Levi’s India,1168,799
+P1174,Consequatur Shoes,Footwear,Shoes,FabIndia,4121,1519
+P1175,Delectus School Bags,Kids,School Bags,Biba,1226,1030
+P1176,Iste Belts,Accessories,Belts,Allen Solly,2546,1174
+P1177,Repellendus Jeans,Men's Fashion,Jeans,Van Heusen,1107,2373
+P1178,Asperiores Clothes,Kids,Clothes,Allen Solly,3227,1374
+P1179,Voluptatum Toys,Kids,Toys,Myntra,4338,2273
+P1180,Incidunt Toys,Kids,Toys,AND,3980,2379
+P1181,Officia Belts,Accessories,Belts,Biba,1751,2987
+P1182,Ullam School Bags,Kids,School Bags,Van Heusen,3104,2695
+P1183,Dolorem T-Shirts,Men's Fashion,T-Shirts,Myntra,4219,2523
+P1184,Repellat Suits,Men's Fashion,Suits,FabIndia,1906,1780
+P1185,Deserunt T-Shirts,Men's Fashion,T-Shirts,Biba,4683,514
+P1186,Numquam Sneakers,Footwear,Sneakers,AND,3050,2592
+P1187,Voluptatem Sneakers,Footwear,Sneakers,Biba,1913,610
+P1188,Perspiciatis Suits,Men's Fashion,Suits,FabIndia,511,1727
+P1189,Illum Sneakers,Footwear,Sneakers,H&M India,3565,2336
+P1190,Dignissimos Sandals,Footwear,Sandals,Nykaa Fashion,523,1338
+P1191,Eos Bags,Accessories,Bags,Van Heusen,3898,788
+P1192,Esse Jeans,Women's Fashion,Jeans,Allen Solly,2919,1056
+P1193,Eius Sandals,Footwear,Sandals,Myntra,2279,973
+P1194,Totam Bags,Accessories,Bags,Myntra,1972,558
+P1195,Accusamus Jewelry,Accessories,Jewelry,H&M India,3517,545
+P1196,Magni Sneakers,Footwear,Sneakers,H&M India,1424,1084
+P1197,Repellat Sandals,Footwear,Sandals,AND,3696,1660
+P1198,Corporis Sneakers,Footwear,Sneakers,FabIndia,3499,1493
+P1199,Veritatis Shoes,Footwear,Shoes,Nykaa Fashion,4098,2672
+P1200,Dignissimos Sneakers,Footwear,Sneakers,Levi’s India,3096,945
+P1201,Minus Tops,Women's Fashion,Tops,AND,1468,2310
+P1202,Nobis Bags,Accessories,Bags,Van Heusen,2011,1348
+P1203,Veritatis Sneakers,Footwear,Sneakers,Myntra,792,1508
+P1204,Dolores Sarees,Women's Fashion,Sarees,Allen Solly,2088,895
+P1205,Aspernatur Jeans,Women's Fashion,Jeans,Myntra,2443,1215
+P1206,Consequatur Sandals,Footwear,Sandals,AND,3294,1555
+P1207,Magnam Belts,Accessories,Belts,Allen Solly,3489,1544
+P1208,Pariatur Jewelry,Accessories,Jewelry,Myntra,2818,2645
+P1209,Dolorum Jewelry,Accessories,Jewelry,Allen Solly,526,1794
+P1210,Asperiores Shoes,Footwear,Shoes,Van Heusen,551,618
+P1211,Cumque Shirts,Men's Fashion,Shirts,Nykaa Fashion,4391,946
+P1212,Quam Sandals,Footwear,Sandals,Allen Solly,3192,2602
+P1213,Totam Suits,Men's Fashion,Suits,Nykaa Fashion,2025,1289
+P1214,Labore Jewelry,Accessories,Jewelry,FabIndia,4837,2496
+P1215,Rerum Toys,Kids,Toys,FabIndia,3000,2559
+P1216,Nostrum Belts,Accessories,Belts,FabIndia,3159,555
+P1217,Distinctio Shirts,Men's Fashion,Shirts,Levi’s India,906,2160
+P1218,Sunt School Bags,Kids,School Bags,Biba,1113,1994
+P1219,Necessitatibus Sneakers,Footwear,Sneakers,Van Heusen,1716,1844
+P1220,Exercitationem T-Shirts,Men's Fashion,T-Shirts,Myntra,4982,1818
+P1221,Aliquid Dresses,Women's Fashion,Dresses,Levi’s India,3837,2675
+P1222,Cumque Bags,Accessories,Bags,H&M India,4994,2214
+P1223,Excepturi Suits,Men's Fashion,Suits,Nykaa Fashion,829,959
+P1224,Nam Jeans,Men's Fashion,Jeans,Levi’s India,2472,2988
+P1225,Porro Tops,Women's Fashion,Tops,Biba,3033,1975
+P1226,Incidunt Sarees,Women's Fashion,Sarees,Van Heusen,4980,359
+P1227,Voluptas Toys,Kids,Toys,Biba,2406,2911
+P1228,Saepe Belts,Accessories,Belts,Nykaa Fashion,2778,1267
+P1229,Doloribus Clothes,Kids,Clothes,H&M India,3225,1451
+P1230,Ullam Sandals,Footwear,Sandals,Biba,3166,1717
+P1231,Minus School Bags,Kids,School Bags,AND,3672,2479
+P1232,Voluptate Shoes,Footwear,Shoes,Nykaa Fashion,597,1443
+P1233,Velit Sneakers,Footwear,Sneakers,Myntra,3119,2597
+P1234,Unde Bags,Accessories,Bags,Biba,2221,1367
+P1235,Commodi Tops,Women's Fashion,Tops,Nykaa Fashion,752,431
+P1236,Officiis Jewelry,Accessories,Jewelry,FabIndia,1558,2225
+P1237,Totam School Bags,Kids,School Bags,Van Heusen,2790,563
+P1238,Modi Sarees,Women's Fashion,Sarees,H&M India,709,2393
+P1239,Harum Clothes,Kids,Clothes,Allen Solly,1834,621
+P1240,Suscipit School Bags,Kids,School Bags,Levi’s India,4547,1866
+P1241,Ullam Sarees,Women's Fashion,Sarees,Myntra,2567,632
+P1242,Numquam School Bags,Kids,School Bags,Myntra,1449,1629
+P1243,Maxime Jewelry,Accessories,Jewelry,Allen Solly,3529,2210
+P1244,Accusamus Sneakers,Footwear,Sneakers,FabIndia,2900,2005
+P1245,Cumque Suits,Men's Fashion,Suits,FabIndia,1518,1479
+P1246,Cum Tops,Women's Fashion,Tops,Myntra,4150,2802
+P1247,Blanditiis Jewelry,Accessories,Jewelry,Myntra,1871,2580
+P1248,Cupiditate Tops,Women's Fashion,Tops,H&M India,607,1272
+P1249,Porro School Bags,Kids,School Bags,H&M India,1374,1747
+P1250,Temporibus Sandals,Footwear,Sandals,FabIndia,1773,859
+P1251,Velit Sneakers,Footwear,Sneakers,Biba,3546,1868
+P1252,Quaerat Bags,Accessories,Bags,Van Heusen,3939,1615
+P1253,Et Suits,Men's Fashion,Suits,Van Heusen,3445,1098
+P1254,Adipisci Bags,Accessories,Bags,Biba,2668,1244
+P1255,Repudiandae Belts,Accessories,Belts,AND,3133,2091
+P1256,Rem Bags,Accessories,Bags,Levi’s India,2590,819
+P1257,Rem Shoes,Footwear,Shoes,Biba,3082,2649
+P1258,Perferendis Dresses,Women's Fashion,Dresses,Biba,959,2852
+P1259,Harum Jewelry,Accessories,Jewelry,Van Heusen,3308,1837
+P1260,Voluptate Bags,Accessories,Bags,H&M India,2831,774
+P1261,Consequatur Sarees,Women's Fashion,Sarees,Allen Solly,4185,931
+P1262,Rerum T-Shirts,Men's Fashion,T-Shirts,Levi’s India,4817,1856
+P1263,Ducimus Jewelry,Accessories,Jewelry,Nykaa Fashion,4455,1221
+P1264,Molestiae Clothes,Kids,Clothes,Van Heusen,2120,2905
+P1265,Perspiciatis Shirts,Men's Fashion,Shirts,Van Heusen,2094,865
+P1266,Tenetur Jewelry,Accessories,Jewelry,H&M India,3368,1157
+P1267,Voluptates Shoes,Footwear,Shoes,AND,1745,351
+P1268,Nostrum Belts,Accessories,Belts,Van Heusen,1040,1342
+P1269,In Sandals,Footwear,Sandals,Biba,4562,2656
+P1270,Rem Clothes,Kids,Clothes,Van Heusen,2051,1596
+P1271,Debitis Jeans,Women's Fashion,Jeans,Allen Solly,4194,1836
+P1272,Consequuntur Dresses,Women's Fashion,Dresses,Biba,2463,914
+P1273,Itaque Tops,Women's Fashion,Tops,AND,2635,1313
+P1274,At Shoes,Footwear,Shoes,AND,3779,891
+P1275,Quidem Clothes,Kids,Clothes,Myntra,4359,1743
+P1276,Ea School Bags,Kids,School Bags,AND,2249,2417
+P1277,Necessitatibus Jeans,Women's Fashion,Jeans,H&M India,1739,1804
+P1278,Voluptates Sneakers,Footwear,Sneakers,AND,4622,2665
+P1279,Adipisci Sarees,Women's Fashion,Sarees,Levi’s India,872,2249
+P1280,Mollitia Shoes,Footwear,Shoes,Nykaa Fashion,3927,2825
+P1281,Quos Shoes,Footwear,Shoes,FabIndia,2419,1935
+P1282,Quidem Dresses,Women's Fashion,Dresses,Biba,4849,2468
+P1283,Quia Sandals,Footwear,Sandals,Van Heusen,1536,1506
+P1284,Porro Shirts,Men's Fashion,Shirts,AND,4511,2393
+P1285,At Sneakers,Footwear,Sneakers,Nykaa Fashion,2129,1266
+P1286,Quas Clothes,Kids,Clothes,AND,4457,1831
+P1287,Reprehenderit Clothes,Kids,Clothes,Van Heusen,1339,302
+P1288,Quidem Bags,Accessories,Bags,Levi’s India,2437,2254
+P1289,Totam Sneakers,Footwear,Sneakers,FabIndia,4414,870
+P1290,Cupiditate School Bags,Kids,School Bags,Myntra,4957,2180
+P1291,Eos Shirts,Men's Fashion,Shirts,AND,1241,689
+P1292,Unde Bags,Accessories,Bags,Allen Solly,2867,2543
+P1293,Cumque Sarees,Women's Fashion,Sarees,AND,1043,2578
+P1294,Ducimus Bags,Accessories,Bags,Nykaa Fashion,1723,1922
+P1295,Sapiente Sneakers,Footwear,Sneakers,Nykaa Fashion,4209,2086
+P1296,Voluptate Belts,Accessories,Belts,Biba,2414,377
+P1297,Ducimus Shoes,Footwear,Shoes,H&M India,781,1581
+P1298,Ab Jeans,Women's Fashion,Jeans,AND,3276,1896
+P1299,Quos Bags,Accessories,Bags,Biba,2463,2948
+P1300,Occaecati Toys,Kids,Toys,Nykaa Fashion,1795,1828
+P1301,Ipsam Toys,Kids,Toys,Levi’s India,2169,2985
+P1302,Cupiditate Jewelry,Accessories,Jewelry,Allen Solly,1626,2225
+P1303,Animi Tops,Women's Fashion,Tops,Allen Solly,4635,819
+P1304,Debitis T-Shirts,Men's Fashion,T-Shirts,Allen Solly,982,2777
+P1305,Repellat Sneakers,Footwear,Sneakers,Biba,2121,2480
+P1306,Enim Sandals,Footwear,Sandals,Allen Solly,4035,2690
+P1307,Ullam Sarees,Women's Fashion,Sarees,H&M India,2840,1903
+P1308,Dolorem Tops,Women's Fashion,Tops,H&M India,1144,747
+P1309,Commodi Tops,Women's Fashion,Tops,Levi’s India,1263,1034
+P1310,Ratione Toys,Kids,Toys,Van Heusen,2672,2460
+P1311,Facere Shoes,Footwear,Shoes,Levi’s India,4249,2497
+P1312,Aliquid School Bags,Kids,School Bags,Myntra,1079,1082
+P1313,Blanditiis T-Shirts,Men's Fashion,T-Shirts,Allen Solly,3860,1812
+P1314,Cupiditate Belts,Accessories,Belts,Levi’s India,2720,1174
+P1315,Quae Shirts,Men's Fashion,Shirts,AND,2109,310
+P1316,In Jewelry,Accessories,Jewelry,Biba,4179,1117
+P1317,Maiores Shoes,Footwear,Shoes,Biba,4496,990
+P1318,Quisquam Sneakers,Footwear,Sneakers,Van Heusen,1284,696
+P1319,Dolores Belts,Accessories,Belts,Van Heusen,2533,1914
+P1320,Nisi Bags,Accessories,Bags,Myntra,4153,2843
+P1321,Unde Shirts,Men's Fashion,Shirts,Allen Solly,3886,1392
+P1322,A T-Shirts,Men's Fashion,T-Shirts,AND,3716,1892
+P1323,Expedita Toys,Kids,Toys,Myntra,4864,2246
+P1324,In Clothes,Kids,Clothes,Myntra,2897,409
+P1325,Aperiam School Bags,Kids,School Bags,Biba,1999,1410
+P1326,Quas Jewelry,Accessories,Jewelry,Nykaa Fashion,2743,2083
+P1327,Impedit Sneakers,Footwear,Sneakers,FabIndia,1447,325
+P1328,Unde Tops,Women's Fashion,Tops,Biba,3888,1855
+P1329,Quibusdam Dresses,Women's Fashion,Dresses,FabIndia,4035,2593
+P1330,Numquam T-Shirts,Men's Fashion,T-Shirts,Myntra,2811,1089
+P1331,Deserunt Tops,Women's Fashion,Tops,Nykaa Fashion,2486,1349
+P1332,Repellat Sandals,Footwear,Sandals,Allen Solly,1549,333
+P1333,Porro Jeans,Women's Fashion,Jeans,Levi’s India,3422,1053
+P1334,Voluptate Shirts,Men's Fashion,Shirts,FabIndia,1369,1730
+P1335,Ipsam School Bags,Kids,School Bags,Van Heusen,1203,2823
+P1336,Quasi Tops,Women's Fashion,Tops,Nykaa Fashion,946,2637
+P1337,Libero Jeans,Men's Fashion,Jeans,Van Heusen,3942,2637
+P1338,Sequi Jewelry,Accessories,Jewelry,Myntra,1900,1976
+P1339,Quidem Sandals,Footwear,Sandals,Biba,1204,1125
+P1340,Quaerat Shoes,Footwear,Shoes,Nykaa Fashion,1472,417
+P1341,Eos Sneakers,Footwear,Sneakers,Van Heusen,2671,1600
+P1342,Voluptas Jeans,Women's Fashion,Jeans,AND,1122,1792
+P1343,Consequuntur Suits,Men's Fashion,Suits,Nykaa Fashion,3822,2219
+P1344,Ut Belts,Accessories,Belts,AND,1081,2247
+P1345,Aperiam School Bags,Kids,School Bags,Levi’s India,4409,2299
+P1346,Ex Jeans,Women's Fashion,Jeans,Myntra,4148,1649
+P1347,Amet Shoes,Footwear,Shoes,Levi’s India,3839,2962
+P1348,Eaque Toys,Kids,Toys,AND,4895,702
+P1349,Dicta School Bags,Kids,School Bags,FabIndia,4848,2057
+P1350,In Jeans,Men's Fashion,Jeans,Myntra,4800,1461
+P1351,Esse Clothes,Kids,Clothes,AND,3268,2415
+P1352,Deleniti Sneakers,Footwear,Sneakers,Allen Solly,2959,396
+P1353,Sed Clothes,Kids,Clothes,Levi’s India,1765,1627
+P1354,Quod Sneakers,Footwear,Sneakers,FabIndia,2749,880
+P1355,Esse Tops,Women's Fashion,Tops,Van Heusen,1398,2954
+P1356,Rerum Shirts,Men's Fashion,Shirts,FabIndia,1333,2204
+P1357,Magnam Jeans,Women's Fashion,Jeans,FabIndia,3924,1391
+P1358,Hic Sneakers,Footwear,Sneakers,Van Heusen,2764,2140
+P1359,Debitis Bags,Accessories,Bags,FabIndia,2949,574
+P1360,Soluta Suits,Men's Fashion,Suits,Biba,592,1365
+P1361,Nisi Jeans,Men's Fashion,Jeans,AND,864,1120
+P1362,Autem Jewelry,Accessories,Jewelry,Van Heusen,3595,2887
+P1363,Quo Toys,Kids,Toys,Van Heusen,502,2053
+P1364,Facere Toys,Kids,Toys,Biba,1938,1172
+P1365,Facilis Dresses,Women's Fashion,Dresses,AND,1557,948
+P1366,Modi Toys,Kids,Toys,Van Heusen,4508,2168
+P1367,Totam Shirts,Men's Fashion,Shirts,Allen Solly,4530,821
+P1368,Dolorem Bags,Accessories,Bags,H&M India,4238,547
+P1369,Natus Belts,Accessories,Belts,Allen Solly,3747,2158
+P1370,Odit T-Shirts,Men's Fashion,T-Shirts,Levi’s India,3351,1017
+P1371,Blanditiis Toys,Kids,Toys,Van Heusen,4193,669
+P1372,Facere Clothes,Kids,Clothes,H&M India,1286,1783
+P1373,Veritatis Sandals,Footwear,Sandals,Nykaa Fashion,3443,654
+P1374,Nisi School Bags,Kids,School Bags,H&M India,2715,1249
+P1375,Voluptate Sandals,Footwear,Sandals,Biba,1044,1123
+P1376,Dicta Belts,Accessories,Belts,Biba,3327,2358
+P1377,Quidem Jewelry,Accessories,Jewelry,Nykaa Fashion,908,2709
+P1378,Enim School Bags,Kids,School Bags,Allen Solly,3747,1006
+P1379,Aut Jeans,Women's Fashion,Jeans,AND,633,1087
+P1380,Suscipit School Bags,Kids,School Bags,Van Heusen,3807,2075
+P1381,Fugiat Dresses,Women's Fashion,Dresses,H&M India,2582,2906
+P1382,Tempora Bags,Accessories,Bags,FabIndia,658,1433
+P1383,Voluptatem Shoes,Footwear,Shoes,Nykaa Fashion,4315,2151
+P1384,Tenetur Jewelry,Accessories,Jewelry,Biba,3783,659
+P1385,Earum Jewelry,Accessories,Jewelry,Biba,1475,1212
+P1386,Minima School Bags,Kids,School Bags,Van Heusen,824,1829
+P1387,Recusandae Tops,Women's Fashion,Tops,AND,4986,2730
+P1388,Unde Shoes,Footwear,Shoes,Allen Solly,2519,2620
+P1389,Tenetur Belts,Accessories,Belts,Allen Solly,856,1956
+P1390,Quaerat Dresses,Women's Fashion,Dresses,Allen Solly,2960,1327
+P1391,Sed Belts,Accessories,Belts,Allen Solly,4709,2072
+P1392,Dolorem Sandals,Footwear,Sandals,FabIndia,4500,1787
+P1393,Nihil Shirts,Men's Fashion,Shirts,H&M India,2265,366
+P1394,Dolor Bags,Accessories,Bags,Allen Solly,1940,448
+P1395,Ipsam School Bags,Kids,School Bags,AND,595,581
+P1396,Nostrum Jeans,Women's Fashion,Jeans,H&M India,1028,2610
+P1397,Modi Toys,Kids,Toys,H&M India,1192,534
+P1398,Alias Suits,Men's Fashion,Suits,Allen Solly,3662,571
+P1399,Sed Dresses,Women's Fashion,Dresses,FabIndia,1742,1441
+P1400,Expedita Suits,Men's Fashion,Suits,H&M India,4710,2610
+P1401,Autem Tops,Women's Fashion,Tops,H&M India,4571,506
+P1402,Fugit Jeans,Men's Fashion,Jeans,Nykaa Fashion,720,1767
+P1403,Cupiditate Sandals,Footwear,Sandals,FabIndia,2974,2991
+P1404,Quibusdam Sneakers,Footwear,Sneakers,Nykaa Fashion,1660,803
+P1405,Culpa Clothes,Kids,Clothes,Allen Solly,1652,356
+P1406,Vitae Sandals,Footwear,Sandals,Biba,867,1782
+P1407,Quo Jeans,Women's Fashion,Jeans,Levi’s India,3828,2181
+P1408,Nemo Bags,Accessories,Bags,Nykaa Fashion,3503,998
+P1409,At Belts,Accessories,Belts,AND,1444,1222
+P1410,Iure Toys,Kids,Toys,H&M India,2059,1383
+P1411,Tempore Clothes,Kids,Clothes,FabIndia,3457,2912
+P1412,Commodi Jeans,Women's Fashion,Jeans,Levi’s India,4763,2389
+P1413,Magni Sneakers,Footwear,Sneakers,Biba,2510,1048
+P1414,Iusto Jewelry,Accessories,Jewelry,Myntra,4710,1478
+P1415,Fugit Jeans,Men's Fashion,Jeans,Levi’s India,3533,370
+P1416,Dignissimos Jewelry,Accessories,Jewelry,AND,566,1816
+P1417,Et Tops,Women's Fashion,Tops,Levi’s India,2728,2089
+P1418,Harum Sneakers,Footwear,Sneakers,Levi’s India,1196,2950
+P1419,Accusamus T-Shirts,Men's Fashion,T-Shirts,H&M India,2404,1411
+P1420,Consequuntur Clothes,Kids,Clothes,Biba,4174,1070
+P1421,Minus Jewelry,Accessories,Jewelry,Myntra,1426,437
+P1422,Est T-Shirts,Men's Fashion,T-Shirts,Myntra,3880,2178
+P1423,Minus Bags,Accessories,Bags,H&M India,4452,1970
+P1424,Corporis Shoes,Footwear,Shoes,Biba,515,905
+P1425,Cupiditate Sneakers,Footwear,Sneakers,Van Heusen,3883,2290
+P1426,Doloribus Sarees,Women's Fashion,Sarees,Myntra,913,324
+P1427,Qui Sneakers,Footwear,Sneakers,Van Heusen,3555,2149
+P1428,Inventore Belts,Accessories,Belts,Van Heusen,3269,743
+P1429,Repudiandae Toys,Kids,Toys,Nykaa Fashion,2915,2264
+P1430,Porro Sandals,Footwear,Sandals,H&M India,1315,2459
+P1431,Consequatur Sarees,Women's Fashion,Sarees,Levi’s India,2929,2360
+P1432,Quia Bags,Accessories,Bags,FabIndia,4097,1503
+P1433,Laudantium Suits,Men's Fashion,Suits,AND,3785,1473
+P1434,Voluptates Toys,Kids,Toys,Nykaa Fashion,3592,1030
+P1435,Rem Shirts,Men's Fashion,Shirts,FabIndia,4317,1728
+P1436,Id Bags,Accessories,Bags,Allen Solly,1357,1455
+P1437,Quod Shirts,Men's Fashion,Shirts,Biba,3896,808
+P1438,Fugit Sneakers,Footwear,Sneakers,H&M India,2107,2139
+P1439,Sequi Jeans,Men's Fashion,Jeans,H&M India,2243,2610
+P1440,Consequuntur Toys,Kids,Toys,Nykaa Fashion,1861,677
+P1441,Architecto Clothes,Kids,Clothes,Nykaa Fashion,4544,2139
+P1442,Dolores Clothes,Kids,Clothes,Levi’s India,4036,2073
+P1443,Ipsum Bags,Accessories,Bags,AND,3058,2111
+P1444,Molestias Shoes,Footwear,Shoes,H&M India,3791,1318
+P1445,Ducimus Shoes,Footwear,Shoes,Levi’s India,3166,1618
+P1446,Laborum Shoes,Footwear,Shoes,FabIndia,4449,311
+P1447,Veritatis Shirts,Men's Fashion,Shirts,H&M India,2042,2425
+P1448,Quibusdam Dresses,Women's Fashion,Dresses,H&M India,1368,1111
+P1449,Quod Toys,Kids,Toys,FabIndia,2244,2556
+P1450,Saepe Sneakers,Footwear,Sneakers,Allen Solly,1021,1627
+P1451,Necessitatibus Dresses,Women's Fashion,Dresses,H&M India,1969,2975
+P1452,Perferendis Dresses,Women's Fashion,Dresses,Levi’s India,3507,2438
+P1453,Rerum Sandals,Footwear,Sandals,FabIndia,1324,1892
+P1454,Debitis Sarees,Women's Fashion,Sarees,Allen Solly,992,968
+P1455,Facilis School Bags,Kids,School Bags,Myntra,870,886
+P1456,Accusamus T-Shirts,Men's Fashion,T-Shirts,Nykaa Fashion,2522,2651
+P1457,Vitae Toys,Kids,Toys,Biba,1687,1803
+P1458,Quam Belts,Accessories,Belts,FabIndia,687,1514
+P1459,Dolor Sneakers,Footwear,Sneakers,Levi’s India,1609,2821
+P1460,Unde Jeans,Women's Fashion,Jeans,AND,1030,1370
+P1461,Debitis Jeans,Men's Fashion,Jeans,FabIndia,1905,816
+P1462,Dicta Shoes,Footwear,Shoes,Allen Solly,4189,432
+P1463,Minus Dresses,Women's Fashion,Dresses,Allen Solly,2043,2506
+P1464,Reiciendis Bags,Accessories,Bags,Myntra,1997,1679
+P1465,Fugiat Jeans,Men's Fashion,Jeans,FabIndia,1396,1846
+P1466,Asperiores Dresses,Women's Fashion,Dresses,H&M India,1885,2493
+P1467,Tempore T-Shirts,Men's Fashion,T-Shirts,Biba,2733,1920
+P1468,Maxime Toys,Kids,Toys,Van Heusen,2053,1895
+P1469,Voluptatum Clothes,Kids,Clothes,Allen Solly,3337,707
+P1470,Expedita Sandals,Footwear,Sandals,FabIndia,1179,1691
+P1471,Veritatis Dresses,Women's Fashion,Dresses,H&M India,736,2725
+P1472,Sequi Sandals,Footwear,Sandals,AND,3647,1332
+P1473,Nihil Jewelry,Accessories,Jewelry,AND,3440,1613
+P1474,Voluptatibus Shoes,Footwear,Shoes,Van Heusen,2423,2911
+P1475,Officia Sarees,Women's Fashion,Sarees,AND,1892,1368
+P1476,Ducimus Sneakers,Footwear,Sneakers,Myntra,561,1385
+P1477,Nulla Dresses,Women's Fashion,Dresses,AND,3098,1600
+P1478,Libero Toys,Kids,Toys,Van Heusen,2710,1086
+P1479,Omnis Jeans,Men's Fashion,Jeans,Allen Solly,4768,1299
+P1480,Provident Toys,Kids,Toys,FabIndia,1474,365
+P1481,Illo Toys,Kids,Toys,Levi’s India,957,1902
+P1482,Harum Sneakers,Footwear,Sneakers,H&M India,2240,1749
+P1483,Nobis Clothes,Kids,Clothes,Biba,779,2691
+P1484,Quasi Suits,Men's Fashion,Suits,FabIndia,4345,1517
+P1485,Eum Sneakers,Footwear,Sneakers,AND,4630,1692
+P1486,Inventore Sneakers,Footwear,Sneakers,Van Heusen,3924,2423
+P1487,Tempora Sarees,Women's Fashion,Sarees,Van Heusen,779,1045
+P1488,Commodi Sneakers,Footwear,Sneakers,Biba,2357,1841
+P1489,Inventore Shoes,Footwear,Shoes,Allen Solly,2422,2305
+P1490,Nemo T-Shirts,Men's Fashion,T-Shirts,Myntra,2351,2952
+P1491,Ipsam School Bags,Kids,School Bags,H&M India,1094,1656
+P1492,Consectetur Clothes,Kids,Clothes,H&M India,520,1699
+P1493,Tempora Sarees,Women's Fashion,Sarees,Levi’s India,4178,2114
+P1494,Beatae Shoes,Footwear,Shoes,Allen Solly,4076,1209
+P1495,Autem Bags,Accessories,Bags,Biba,4557,1273
+P1496,Excepturi Toys,Kids,Toys,AND,2788,846
+P1497,Consectetur Toys,Kids,Toys,FabIndia,3272,1733
+P1498,Doloremque School Bags,Kids,School Bags,AND,4247,2142
+P1499,Repellat Toys,Kids,Toys,AND,994,2764
